@@ -1,4 +1,4 @@
-#Social Proof
+# Social Proof
 Ce projet met en avant les témoignages clients et les avis utilisateurs pour renforcer la crédibilité d’un produit ou d’un service. Il présente une interface moderne et responsive affichant :
 
 - Un titre accrocheur et une courte description de la satisfaction client.
@@ -6,9 +6,9 @@ Ce projet met en avant les témoignages clients et les avis utilisateurs pour re
 - Des cartes de témoignages clients avec photo, nom, statut et avis personnalisé.
 - L’objectif est de rassurer les visiteurs et d’augmenter la confiance grâce à la preuve sociale.
 
-##Technologies utilisées : HTML & CSS
+## Technologies utilisées : HTML & CSS
 
-##Objectifs
+## Objectifs
 
  - Comprendre l’importance de la preuve sociale dans le design web.
 
@@ -24,7 +24,7 @@ Ce projet met en avant les témoignages clients et les avis utilisateurs pour re
 
  - Apprendre à utiliser les icons
 
-##Spécifications
+## Spécifications
 
  - Structure HTML sémantique
 
