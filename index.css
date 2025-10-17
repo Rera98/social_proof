@@ -56,9 +56,8 @@ body{
     background-color: #f5f1f7;
     border-radius: 10px;
     margin-left: 50px;
-
-    
 }
+
 .rated_1:hover{
     background-color: #dbdada;
 }
@@ -116,7 +115,6 @@ body{
     color: #fff;
     padding: 20px;
     border-radius: 10px;
-
 }
 
 .box:hover{
@@ -138,7 +136,6 @@ body{
 .image{
     width: 50px;
     height: 50px;
-
 }
 
 .user_name{
@@ -167,7 +164,7 @@ body{
 }
 
 .dawn_card p{
-     margin-bottom: 15px;
+    margin-bottom: 15px;
 }
 
 .dawn_card h3{
@@ -195,11 +192,10 @@ body{
     .number_of_user{
      width: 90%;
      text-align: center;
-  
    }
 
     .rating_section{
-         display: flex;
+        display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
@@ -220,39 +216,39 @@ body{
     
      .star{
         width: 95%;
-     align-items: center;
-     justify-content: center;
+        align-items: center;
+        justify-content: center;
     } 
 
     .rated_1{
-     flex-direction: column;
-     justify-items: center;
-     align-items: center;
-     margin-left: 0;
-     padding: 10px;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+        margin-left: 0;
+        padding: 10px;
     } 
     .rated_1 p {
         padding: 0;
     }
 
     .rated_2{
-     flex-direction: column;
-     justify-items: center;
-     align-items: center;
-    margin-left: 0;
-    margin-right: 0;
-     margin-top: 10px;
-     padding: 10px;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 10px;
+        padding: 10px;
     }
      .rated_2 p {
         padding: 0;
     }
 
     .rated_3{
-     flex-direction: column;
-     align-items: center; 
-     margin-right: 0;
-     padding: 10px;
+        flex-direction: column;
+        align-items: center; 
+        margin-right: 0;
+        padding: 10px;
 
     }
      .rated_3 p {
@@ -262,53 +258,53 @@ body{
 
 @media screen and (max-width: 425px){
 
-     .card_principal{          
-    justify-content: center;
-    align-items: center;
-    gap: 50px;
-   }
+    .card_principal{          
+       justify-content: center;
+       align-items: center;
+       gap: 50px;
+    }
 
     .number_of_user{
-     width: 90%;
-     text-align: center;
-  
-   }
+        width: 90%;
+        text-align: center;
+    }
 
     .star{
-      width: 90%;
-     align-items: center;
-     justify-content: center;
+        width: 90%;
+        align-items: center;
+        justify-content: center;
     }  
 
      .rated_1{
-     flex-direction: column;
-     justify-items: center;
-     align-items: center;
-     margin-left: 0;
-     padding: 10px;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+        margin-left: 0;
+        padding: 10px;
     } 
+
     .rated_1 p {
         padding: 0;
     }
 
     .rated_2{
-     flex-direction: column;
-     justify-items: center;
-     align-items: center;
-    margin-left: 0;
-    margin-right: 0;
-     margin-top: 10px;
-     padding: 10px;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 10px;
+        padding: 10px;
     }
      .rated_2 p {
         padding: 0;
     }
 
     .rated_3{
-     flex-direction: column;
-     align-items: center; 
-     margin-right: 0;
-     padding: 10px;
+        flex-direction: column;
+        align-items: center; 
+        margin-right: 0;
+        padding: 10px;
 
     }
      .rated_3 p {
@@ -326,23 +322,23 @@ body{
  @media screen and (max-width: 375px){
 
     .card_principal{          
-    justify-content: center;
-    align-items: center;
-    gap: 50px;
-   }
+       justify-content: center;
+       align-items: center;
+       gap: 50px;
+    }
 
     .star{
-     width: 90%;
-     align-items: center;
-     justify-content: center;
+        width: 90%;
+        align-items: center;
+        justify-content: center;
     }
 
     .number_of_user{
-     width: 90%;
-    text-align: center;
+        width: 90%;
+        text-align: center;
    }
 
-     .testimonial_section{
+    .testimonial_section{
         display: flex;
         justify-content: center;
         align-items: center;
