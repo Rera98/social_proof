@@ -37,3 +37,5 @@ Ce projet met en avant les témoignages clients et les avis utilisateurs pour re
  - Code propre et commenté
 
  - Veuillez fournir un lien <strong>Github Pages</strong> en plus de votre <strong>dépot Github</strong>
+
+ ![Description de l’image](rendu.png)
